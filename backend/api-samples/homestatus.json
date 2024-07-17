@@ -1,0 +1,21 @@
+{
+   "status":"ok",
+   "body":{
+      "home":{
+         "id":"63122e668d44fc14000aa459",
+         "modules":[
+            {
+               "id":"70:ee:50:96:fa:aa",
+               "Temperature":23.3,
+               "Humidity":45,
+               "Pressure":1007.7
+            },
+            {
+               "id":"02:00:00:96:ca:d8",
+               "Temperature":27.7,
+               "Humidity":49
+            }
+         ]
+      }
+   }
+}

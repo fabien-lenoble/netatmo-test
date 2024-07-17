@@ -1,0 +1,1 @@
+export type Status = "Humidity" | "Temperature" | "Pressure"
